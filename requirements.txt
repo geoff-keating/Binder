@@ -1,3 +1,6 @@
 black[jupyter]
 ipykernel
+kaggle
+pandas
 pre-commit
+scikit-learn
